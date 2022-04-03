@@ -1,0 +1,19 @@
+{
+    "name": "ac3/greetr",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AC3",
+            "email": "ac3.zevahcul@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ac3\\Greetr\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
